@@ -11,7 +11,8 @@ PostgreSQL: Target database technology for storing cleaned data.
 
 Project Structure:
 __________________
--The project is divided into three main components:
+
+The project is divided into three main components:
 
 1) Client Data Cleaning:
 Cleaning and formatting client-related data, addressing issues like inconsistent job and education labels.
